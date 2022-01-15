@@ -1,4 +1,4 @@
-import { Percent } from '@violeta.at.bww/swappityswap'
+import { Percent } from '@sijo0703/swappityswap'
 import { ALLOWED_PRICE_IMPACT_HIGH, PRICE_IMPACT_WITHOUT_FEE_CONFIRM_MIN } from '../../constants'
 
 /**

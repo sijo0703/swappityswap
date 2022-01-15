@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, ETHER, Token } from '@sijo0703/swappityswap'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

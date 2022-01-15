@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Token, Currency } from '@violeta.at.bww/swappityswap'
+import { Token, Currency } from '@sijo0703/swappityswap'
 import styled from 'styled-components'
 import { TYPE, CloseIcon } from 'theme'
 import Card from 'components/Card'

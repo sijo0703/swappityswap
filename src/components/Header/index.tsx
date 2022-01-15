@@ -1,4 +1,4 @@
-import { ChainId, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { ChainId, TokenAmount } from '@sijo0703/swappityswap'
 import React, { useState } from 'react'
 import { Text } from 'rebass'
 import { NavLink } from 'react-router-dom'

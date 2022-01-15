@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@violeta.at.bww/swappityswap'
+import { CurrencyAmount, ETHER, JSBI } from '@sijo0703/swappityswap'
 import { MIN_ETH } from '../constants'
 
 /**

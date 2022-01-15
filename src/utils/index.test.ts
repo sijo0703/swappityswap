@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@violeta.at.bww/swappityswap'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@sijo0703/swappityswap'
 
 import {
   getEtherscanLink,

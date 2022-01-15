@@ -1,6 +1,6 @@
 import { getTokenLogoURL } from './../components/CurrencyLogo/index'
 import { wrappedCurrency } from 'utils/wrappedCurrency'
-import { Currency, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, Token } from '@sijo0703/swappityswap'
 import { useCallback, useState } from 'react'
 import { useActiveWeb3React } from 'hooks'
 

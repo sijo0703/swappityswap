@@ -1,4 +1,4 @@
-import { JSBI } from '@violeta.at.bww/swappityswap'
+import { JSBI } from '@sijo0703/swappityswap'
 import { useMemo } from 'react'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'
 import { useActiveWeb3React } from './index'

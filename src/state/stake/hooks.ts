@@ -1,4 +1,4 @@
-import { ChainId, CurrencyAmount, JSBI, Token, TokenAmount, WETH, Pair } from '@violeta.at.bww/swappityswap'
+import { ChainId, CurrencyAmount, JSBI, Token, TokenAmount, WETH, Pair } from '@sijo0703/swappityswap'
 import { useMemo } from 'react'
 import { DAI, UNI, USDC, USDT, WBTC } from '../../constants'
 import { STAKING_REWARDS_INTERFACE } from '../../constants/abis/staking-rewards'

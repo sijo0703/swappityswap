@@ -1,4 +1,4 @@
-import { ChainId } from '@violeta.at.bww/swappityswap'
+import { ChainId } from '@sijo0703/swappityswap'
 import { createStore, Store } from 'redux'
 import { addTransaction, checkedTransaction, clearAllTransactions, finalizeTransaction } from './actions'
 import reducer, { initialState, TransactionState } from './reducer'

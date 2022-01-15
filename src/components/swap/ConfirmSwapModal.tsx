@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@violeta.at.bww/swappityswap'
+import { currencyEquals, Trade } from '@sijo0703/swappityswap'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

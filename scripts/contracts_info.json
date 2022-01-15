@@ -1,7 +1,7 @@
 {
-  "factory_contract_address": "0x9d46d3240B1Be5865297D5C2136EB7583CB6F09E",
-  "pair_init_code_hash": "0x45c2e84b5d005b77822428b2bf75609ac4643787ad2533d643598124ade9fa6c",
-  "router_contract_address": "0x9b9edd97d99B1db409f44902878596993AFCdd2E",
-  "WETH": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-  "feeToSetter": "0xa7910BEF6dfdFC0d35962bEE7f8716BBBcDA1330"
+  "factory_contract_address": "0x40392B822496B14087AE1A545b74B37c9D903EC4",
+  "pair_init_code_hash": "0xdc4a472c715d777fc5fa3e5d83905c7070dc29f73b977ad2d45d5689defdae28",
+  "router_contract_address": "0x931bc732c21355d7F9F8a62C74A37200720010Eb",
+  "WETH": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+  "feeToSetter": "0xEe658bC672304fF5A51dCDdF570596692E7ed980"
 }

@@ -1,5 +1,5 @@
 import React, { CSSProperties } from 'react'
-import { Token } from '@violeta.at.bww/swappityswap'
+import { Token } from '@sijo0703/swappityswap'
 import { AutoRow, RowFixed } from 'components/Row'
 import { AutoColumn } from 'components/Column'
 import CurrencyLogo from 'components/CurrencyLogo'

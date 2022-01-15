@@ -7,7 +7,7 @@ import {
   Trade,
   TradeOptionsDeadline,
   TradeType
-} from '@violeta.at.bww/swappityswap'
+} from '@sijo0703/swappityswap'
 import { getTradeVersion } from '../data/V1'
 import { Version } from '../hooks/useToggledVersion'
 

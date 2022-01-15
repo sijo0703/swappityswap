@@ -1,5 +1,5 @@
 import { Interface } from '@ethersproject/abi'
-import { ChainId } from '@violeta.at.bww/swappityswap'
+import { ChainId } from '@sijo0703/swappityswap'
 import V1_EXCHANGE_ABI from './v1_exchange.json'
 import V1_FACTORY_ABI from './v1_factory.json'
 

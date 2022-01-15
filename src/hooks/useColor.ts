@@ -2,7 +2,7 @@ import { useState, useLayoutEffect } from 'react'
 import { shade } from 'polished'
 import Vibrant from 'node-vibrant'
 import { hex } from 'wcag-contrast'
-import { Token, ChainId } from '@violeta.at.bww/swappityswap'
+import { Token, ChainId } from '@sijo0703/swappityswap'
 import uriToHttp from 'utils/uriToHttp'
 
 async function getColorFromToken(token: Token): Promise<string | null> {

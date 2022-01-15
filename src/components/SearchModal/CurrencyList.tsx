@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@sijo0703/swappityswap'
 import React, { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
 import { FixedSizeList } from 'react-window'
 import { Text } from 'rebass'

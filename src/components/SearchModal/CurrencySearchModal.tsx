@@ -1,4 +1,4 @@
-import { Currency, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, Token } from '@sijo0703/swappityswap'
 import React, { useCallback, useEffect, useState } from 'react'
 import useLast from '../../hooks/useLast'
 import Modal from '../Modal'

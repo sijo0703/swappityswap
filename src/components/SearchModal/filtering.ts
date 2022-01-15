@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { isAddress } from '../../utils'
-import { Token } from '@violeta.at.bww/swappityswap'
+import { Token } from '@sijo0703/swappityswap'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {
   if (search.length === 0) return tokens

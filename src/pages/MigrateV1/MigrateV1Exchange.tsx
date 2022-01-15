@@ -9,7 +9,7 @@ import {
   Token,
   TokenAmount,
   WETH
-} from '@violeta.at.bww/swappityswap'
+} from '@sijo0703/swappityswap'
 import React, { useCallback, useMemo, useState } from 'react'
 import ReactGA from 'react-ga'
 import { Redirect, RouteComponentProps } from 'react-router'

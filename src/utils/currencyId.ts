@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, ETHER, Token } from '@sijo0703/swappityswap'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

@@ -1,4 +1,4 @@
-import { Percent } from '@violeta.at.bww/swappityswap'
+import { Percent } from '@sijo0703/swappityswap'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

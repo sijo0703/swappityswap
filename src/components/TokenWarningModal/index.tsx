@@ -1,4 +1,4 @@
-import { Token } from '@violeta.at.bww/swappityswap'
+import { Token } from '@sijo0703/swappityswap'
 import React, { useCallback } from 'react'
 import Modal from '../Modal'
 import { ImportToken } from 'components/SearchModal/ImportToken'

@@ -1,4 +1,4 @@
-import { TokenAmount } from '@violeta.at.bww/swappityswap'
+import { TokenAmount } from '@sijo0703/swappityswap'
 import React, { useEffect } from 'react'
 import { X } from 'react-feather'
 import styled, { keyframes } from 'styled-components'

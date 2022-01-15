@@ -1,5 +1,5 @@
 import React from 'react'
-import { CurrencyAmount, Fraction, JSBI } from '@violeta.at.bww/swappityswap'
+import { CurrencyAmount, Fraction, JSBI } from '@sijo0703/swappityswap'
 
 const CURRENCY_AMOUNT_MIN = new Fraction(JSBI.BigInt(1), JSBI.BigInt(1000000))
 

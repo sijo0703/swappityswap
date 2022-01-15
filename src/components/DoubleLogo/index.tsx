@@ -1,4 +1,4 @@
-import { Currency } from '@violeta.at.bww/swappityswap'
+import { Currency } from '@sijo0703/swappityswap'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

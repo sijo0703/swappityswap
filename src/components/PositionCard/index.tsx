@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { JSBI, Pair, Percent, TokenAmount } from '@sijo0703/swappityswap'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'

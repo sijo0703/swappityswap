@@ -1,5 +1,5 @@
 {
-  "name": "@violeta.at.bww/swappityswap",
+  "name": "@sijo0703/swappityswap",
   "description": "SwappitySwap Interface",
   "homepage": "https://vgotcheva.github.io/swappityswap",
   "private": true,
@@ -34,7 +34,7 @@
     "@uniswap/token-lists": "^1.0.0-beta.19",
     "@uniswap/v2-core": "1.0.0",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
-    "@violeta.at.bww/swappityswap": "10.0.0",
+    "@sijo0703/swappityswap": "10.0.1",
     "@web3-react/core": "^6.0.9",
     "@web3-react/fortmatic-connector": "^6.0.9",
     "@web3-react/injected-connector": "^6.0.7",

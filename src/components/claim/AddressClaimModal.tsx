@@ -17,7 +17,7 @@ import { isAddress } from 'ethers/lib/utils'
 import Confetti from '../Confetti'
 import { CardNoise, CardBGImage, CardBGImageSmaller } from '../earn/styled'
 import { useIsTransactionPending } from '../../state/transactions/hooks'
-import { TokenAmount } from '@violeta.at.bww/swappityswap'
+import { TokenAmount } from '@sijo0703/swappityswap'
 import { getEtherscanLink, shortenAddress } from '../../utils'
 
 const ContentWrapper = styled(AutoColumn)`

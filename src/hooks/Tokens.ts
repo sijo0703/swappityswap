@@ -1,6 +1,6 @@
 import { TokenAddressMap, useDefaultTokenList, useUnsupportedTokenList } from './../state/lists/hooks'
 import { parseBytes32String } from '@ethersproject/strings'
-import { Currency, ETHER, Token, currencyEquals } from '@violeta.at.bww/swappityswap'
+import { Currency, ETHER, Token, currencyEquals } from '@sijo0703/swappityswap'
 import { useMemo } from 'react'
 import { useCombinedActiveList, useCombinedInactiveList } from '../state/lists/hooks'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'

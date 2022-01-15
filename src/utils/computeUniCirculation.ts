@@ -1,4 +1,4 @@
-import { JSBI, Token, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { JSBI, Token, TokenAmount } from '@sijo0703/swappityswap'
 import { BigNumber } from 'ethers'
 import { STAKING_GENESIS } from '../state/stake/hooks'
 

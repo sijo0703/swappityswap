@@ -2103,6 +2103,19 @@
   dependencies:
     any-observable "^0.3.0"
 
+"@sijo0703/swappityswap@10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@sijo0703/swappityswap/-/swappityswap-10.0.1.tgz#87470986829009265e3d4c29e78632e186283fc9"
+  integrity sha512-vXCflRfD5BrzrEOzqhsxKmJB3GK7Ar0yx3R+4orySLVq7BON0ovtgqpcXPuuiY59dnBNZvZuGDNaEiIFE6eu8g==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@styled-system/background@^5.1.2":
   version "5.1.2"
   resolved "https://registry.npmjs.org/@styled-system/background/-/background-5.1.2.tgz"
@@ -2744,19 +2757,6 @@
   dependencies:
     "@uniswap/lib" "1.1.1"
     "@uniswap/v2-core" "1.0.0"
-
-"@violeta.at.bww/swappityswap@10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@violeta.at.bww/swappityswap/-/swappityswap-10.0.0.tgz#6598d0fb3ae666422ef89f0a8cc4b048576eaaf0"
-  integrity sha512-QuWW9HW2sMWiOHQrx6kHVGk1bXJc1WVdKJHbjzBdIq4reTlumKBGGHSoa7nuiwuQbv1gs/pzXzao4IvVSg4VPw==
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
 
 "@walletconnect/client@^1.1.1-alpha.0":
   version "1.1.1-alpha.0"

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Token, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { ChainId, JSBI, Token, TokenAmount } from '@sijo0703/swappityswap'
 import { BigNumber } from 'ethers'
 import { ZERO_ADDRESS } from '../constants'
 import { computeUniCirculation } from './computeUniCirculation'

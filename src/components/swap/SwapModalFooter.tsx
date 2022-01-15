@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@violeta.at.bww/swappityswap'
+import { Trade, TradeType } from '@sijo0703/swappityswap'
 import React, { useContext, useMemo, useState } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

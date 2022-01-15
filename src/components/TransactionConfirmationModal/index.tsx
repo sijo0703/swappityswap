@@ -1,4 +1,4 @@
-import { ChainId, Currency } from '@violeta.at.bww/swappityswap'
+import { ChainId, Currency } from '@sijo0703/swappityswap'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'
